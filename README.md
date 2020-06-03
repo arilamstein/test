@@ -1,1 +1,1 @@
-The best branch is the MASTER branch!
+The best branch is the RECIPES branch!
