@@ -1,1 +1,1 @@
-The best branch is MASTER.
+This is the README
