@@ -1,1 +1,1 @@
-The best branch is MASTER.
+The best branch is the branch that I will create tomorrow!
